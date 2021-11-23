@@ -1,0 +1,15 @@
+* {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: blue;
+}
+li:hover {
+    color: brown;
+}
+a:hover {
+    color: brown;
+}
+ul {
+    font-size: 1.3em;
+  }
+  
